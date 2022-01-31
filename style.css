@@ -26,4 +26,5 @@ a{  color: rgb(47, 47, 145);
 a:hover{
     text-decoration:underline;
     color: rgb(59, 123, 175);
-}
+}@media (max-width: 576px){p{
+    font-size: 20px;}}
