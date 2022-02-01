@@ -35,4 +35,8 @@ a{  color: rgb(47, 47, 145);
 
 .page{
     font-size: 15px;
+    text-shadow: 1px 1px 2px rgba(147, 156, 189, 0.74), 0 0 1em rgb(162, 235, 252), 0 0 0.2em rgb(81, 81, 190);;
+}.page{
+    text-decoration:underline;
+    color: rgb(59, 123, 175);
 }
